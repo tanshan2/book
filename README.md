@@ -7,7 +7,9 @@
 ## 阅读入口
 
 - [故事设定与决策记录](story-bible.md)：世界观、人物关系、梦层边界与已确认的创作约束。
-- [八章小说修订稿阅读索引](outputs/novel-manuscript-8ch-index-v2.md)：目前八章修订稿的阅读入口。
+- [八章修订稿 v3 阅读索引](outputs/novel-manuscript-8ch-index-v3.md)：当前最新稿的入口，附各章主导意象、字数与本版处理的连续性问题；[完整合集 v3](outputs/novel-manuscript-8ch-complete-v3.md)，[PDF](outputs/novel-manuscript-8ch-complete-v3.pdf)。
+- [全稿文字诊断清单](outputs/novel-manuscript-8ch-v2-diagnosis-v1.md)：v3 改稿的依据。
+- [八章小说修订稿阅读索引](outputs/novel-manuscript-8ch-index-v2.md)：上一版（v2）的阅读入口，保留供对照。
 - [八章小说完整合集 v2](outputs/novel-manuscript-8ch-complete-v2.md)：待审读的完整稿。
 - [第一章后续重写稿](outputs/novel-manuscript-8ch-ch01-v2.md)：尚未替换进上述合集；[核对记录](outputs/novel-manuscript-8ch-ch01-v2-review.md)。
 - [八章读者时间线](outputs/novel-reader-timeline-v5-8chapters.md)与[章节结构及伏笔链](outputs/novel-chapter-outline-v3-8chapters.md)。
