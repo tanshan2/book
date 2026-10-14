@@ -1,0 +1,29 @@
+# macOS and editor scratch files
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+
+# Credentials and local environment files
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.ssh/
+.codex/
+
+# Reproducible caches and dependency folders
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+
+# Keep generated backup archives outside the repository
+*.zip
+*.tar
+*.tar.gz
+.github-upload-tmp/
